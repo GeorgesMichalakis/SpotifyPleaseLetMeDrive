@@ -1,7 +1,3 @@
-Here’s a quick **README** for your interactive road-curving script:
-
----
-
 # MeshCurve – Interactive Road Deformation
 
 This script lets you bend a road mesh **vertically in real time** while keeping the borders fixed.
